@@ -1,0 +1,9 @@
+.anchor, .print.icon, .sidebar, .btnlang {
+  display: none!important;
+}
+
+@media print {
+  body {
+    zoom: 81%;
+  }
+}
