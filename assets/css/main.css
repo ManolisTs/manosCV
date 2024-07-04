@@ -332,6 +332,8 @@ html, body {
   font-style: italic;
   font-weight: 300;
   margin-top: 15px;
+  font-size: 18px;
+  line-height: 22px;
 }
 
 .main .section.publications .item {
